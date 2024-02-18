@@ -1,0 +1,17 @@
+{
+  "name": "backend_confirmed",
+  "version": "1.0.0",
+  "description": "The problem consists in extracting data from a JSON file too big to be parsed / hold in memory as a whole.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "comment-json": "^4.2.3",
+    "json-parser": "^3.1.2",
+    "jsonrepair": "^3.6.0",
+    "parse-json": "^8.1.0"
+  }
+}
